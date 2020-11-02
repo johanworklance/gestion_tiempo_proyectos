@@ -1,0 +1,174 @@
+12 pasos
+
+
+planificacion:
+1.definir proyecto
+2.enumerar tareas
+3.estimar tiempo y costes
+4.relaciona las tareas graficamente
+5.acelera tu plan
+6.dibujar un diagrama de gant
+7.calcular los recursos
+8.evaluar los riesgos y que planes de accion para ellos
+
+monitoreo:
+9.supervisa el progreso
+10.monitorizar costes
+11.reprograma(evitar este paso, por que esto es pedir mas tiempo y dinero)
+12.revisar lo aprendido y felicitar
+
+
+1.definir el proyecto con precision
+
+costo, calidad y tiempo
+
+cual es la priorida del cliente de estos 3
+
+que podemos negociar para cada uno
+
+un ejemplo, los juegos olimpicos no negocean tiempo, la calidad y costo no importa
+
+
+una central nuclear, prima la calidad
+
+
+si un cliente quiere las 3, debemos formular 3 preguntos
+
+1.por que? por que esa fecha? por que 20000?
+
+2.que pasaria si? gastamos mas o tomas tiempo?
+
+3.podemos negociar? ofrecer opciones y consejos
+
+convocar reuniones de arrranque para poner las cosas en deacuerdo todos los involucrados(2 reuniones, que quieren?,en la segunda este es el plan, que les parece?)en esta ultima se cierra el trato, no empieces tu proyecto hasta que todas las partes esten deacuerdo con el resultado final a realizar
+
+
+
+formalizacion por escrito
+
+los acuerdos verbales son problematicos, no dejar nada ambiguo, todo por escrito y tener contrato, facilitara que no surgan imprevistos como que el cliente pida mas cosas de lo acordado o salga con otra cosa que no dijo antes, siempre decir si o no, no decir lo intentare, ser tajante.
+
+
+
+2. enumerar tareas
+
+cerebro derecho
+hacer un brainstorm de ideas con todo el 
+equipo
+
+cerebro izquierdo EDT
+desglosar una tarea, dividirla en varias tareas y o categorias
+
+cerebro de otro
+consultar con un tercero para constratar o necesidad de informacion, internet
+
+granularidad
+desglosar y se explicito con cada tarea
+
+revisiones semanales, asi sea una tarea mensual
+
+
+
+expresion prohibida: en curso, nunca decir esto, ya que indicaria poca planificacion, recomendable dividar tareas para conocer mas detalles, e identificara que tiempo requiere esa minitareas
+
+
+3.estimacion de costo y tiempo
+
+
+entre 20 semanas y 60 semanas, la media es 30, lo recomendable es decir al cliente que necesitaras 45 semanas, es decir estar entre la media y el peor resultado que es 60. 20 semanas es prohibitivo, solo saldria si todo sale bien.
+
+media = 50% posibildades
+45= 90% posibilidad de entregar a tiempo
+
+
+
+
+4.ordenar tareas
+
+diagrama acusa efecto o grafico pert
+
+es un diagrama de pequeñas decisiones hechas con notitas que se relacionan en orden de ejecucion formando una especie de fila o formando un grupo de notitas relacionadas. es como un diagrama uml
+
+en cada notita ponemos encima un numero de tiempo sean horas dias o semanas, al finalizar sumamos y eso determina la ruta critica, digamos que son 7 actividades cada uno con tiempo de 5 semanas, 7 , 10 etc
+
+al sumarlas dan 30 semanas, ese es el tiempo critico para realizar el proyecto, a parte hay tareas con olgura, que es una actividad que puede atrasarse sin perjudicar a la ruta critica
+
+
+fijarse en las actividades que tienen mas semanas, acelerarlas: aumentando el costo, disminuyendo la calidad o llevar varias tareas en paralelo.
+
+
+
+DIAGRAMA DE GANT
+
+dibujamos una escala de tiempo 
+
+0----10---20----30-----40 semanas
+		    34 semana ideal
+
+ruta critica para montar un local
+---4
+      ---14
+             ----24
+                    -----32
+                              --34
+pais licencia sitio modificar mobiliario
+
+                          |
+	        	  | 
+			  |inauguracion
+			  duracion 0
+
+
+8. evaluar riesgos
+
+que podria salir mal?
+
+reducir que la probabilidad de que surga algo
+no caer de un acantilado, evitando estar cerca del el
+
+
+o minimizar el impacto
+ejmplo que llueva, y colocas un toldo en la inauguracion
+
+9.monitorizar progreso
+es necesario el diagrama de gantt coloreado indicando el progreso, para poder monitorizar a un gestor de proyectos
+o si este ultimo eres tu, asegurate de colorear el proceso, asi sabremos las actividades respecto a la linea de tiempo que ya estan completadas
+
+
+
+10.monitorizar costos
+
+si debias gastar 500 pero gastaste 720, podria ser un  desastre, pero si el proyecto lleva buen progreso es un proyecto salvable
+
+un proyecto de 800 de gasto, pero se consumio 650 y hay un buen progreso es un proyecto de buen progreso
+
+un proyecto de costo 500, y se gastaron 550 pero no se llego a la meta de progreso
+entonces es un proyecto no salvable
+
+
+11.reprograma:
+gastar mas
+
+reducir calidad
+
+superon tareas
+
+dejar que el proyecto se retrase
+
+nunca tomar la quinta, que es no hacer nada
+
+
+reconocer el error, y saber bien cuanto pedir al cliente, ser pragmatico
+
+
+12. aprende y felicita
+
+tomar nota de lo ocurrido, un balance final
+
+que es lo mejor del proyecto o lo que salio bien(anota para replicarlo en otro proyecto y dar gracias a los trabajadores, reconocer a los involucrados)
+
+que salio mal(reflexionar para no repetir errores, no culpar a nadie)
+
+que mejorar(esta difiere de las anteriores, ya que las anteriores ocurrieron, esta es hipotetica, pensar como hubieramos hecho mejor todo lo anterior)
+
+
