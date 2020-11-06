@@ -1,0 +1,57 @@
+scrum
+
+sprint: 
+ciclo corto 2 3 semanas
+planificacion, desarrollo, pruebas y revision
+
+roles:
+dueño del producto-aporta ideas al producto final, puede ser un cliente,o un tercero que atiende al cliente. ejemplo crear una tienda de sombreros, usa un backlog(todos los elementos que el quiere que tenga el producto), no necesariamente es un jefe, puede ser un emprendedor, alguien del equipo, el cliente, el es en si la voz del cliente.
+
+
+scrumMaster-mantiene el flujo de trabajo,apoya al equipo, usa herramientas como el diagrama de gant, es quien esta al tanto de las necesidades del proyecto, mantiene los procesos, verificando al dueño y que mantenga el backlog, o que los del equipo avanze, convoca reuniones diarias, traduce el backlog del dueño a actividades para el equipo.
+
+equipo de desarrollo-diversos profesionales para implementar el producto de entre a 3 a no mas de 15 personas todos son parte del equipo creativo, reciben instrucciones del scrummaster, estas dentro del backlog la bitacora.
+
+
+como trabaja un equipo scrum
+
+bitacora-
+ es un plano general del producto, la crea el dueño del producto, comprender las necesidades, estar en contacto con el cliente, son requeriemientos divididas en tarjetas. ejemplo: el ususrio debe tener acceso a un boton rojo, o como usuario yo necesito un boton rojo, asi que se debe crear uno de ese tipo. se crean desde el punto de vista de quien lo usara. otro ejemplo, el usuario debe tener acceso a un catalogo de sombreros.como administrador yo necesito crear usuarios, asi que usare un administrador de usuarios.cada funcionalidad tiene una necesidad especifica.
+
+cuando tengamos todas las tarjetas las agrupamos, y estan forman el backlog, depende el ciclo escogeremos una o otras tarjetas.
+
+
+sprints de produccion-
+es un ciclo de desarrollo del producto,se definen los items que vamos a desarrollar, el final es la resolucion y la entrega de un producto funcional, deben ser cortas e intensas, duran 2 a 3 semanas o menos
+
+
+scrum diario-
+reunion mas importante del dia no mas de 15 mins cronometrados, todos de pie, no hay que estar comodo o podria durar mas
+prguntarse: que hiciste ayer?,que vas a hacer hoy?,hay algun obstaculo para realizarlo?(todas son preguntas, para saber el estado del proyecto,es flexible y abierto a pedir ayuda o a que no se logre todo el objetivo del dia, todos estaran al tanto del avance del proyecto) 
+, al finalizar el scrumaster tendra una lista de todos los obstaculos a resolver.
+esta es una reunion principal del dia para que todos sepan en que estado estan del proyecto, despues se pueden hacer otras reuniones paralelas
+
+
+ejecucion de tareas-
+tiempo que tarda el equipo en crear el producto en un sprint, todos deben avanzar en paralelo del producto final, todos los miembros tomaran las tareas del backlog para implementarlas y al terminar verificaran que cumplen con el requisito pedido, es posible que no todas las tareas puedan ser cumplidas, se pueden dejar para el siguiente sprint.
+
+presentacion del producto-
+todos los miembros deben reunirse el dueño del producto,scrumMaster y resto del equipo, y verificar que se hayan cumplido todas las tareas,las peticiones deben ser claras, nada ambiguo.
+
+retrospectiva-
+es una analisis de lo aprendido, o las habilidades adquiridas durante el desarrollo, los problemas encontrados y como evitarlos.nunca es una reunion para buscar culpables, es un momento de aprendizaje, que poder mejorar.
+
+burndow chart-
+es un documento donde indicamos por tarea y por miembro del equipo, cuantas horas tomara cada tarea en un lapso de tiempo dividido en dias. hay un estimado y el total de horas reales que tomo realizar la tarea
+
+en la oficina-
+
+compra tarjetitas autoadesivas, las llenaremos de ideas, conceptos, las pegas en un pizarra o ventana, las ordenaremos por categorias con colores puede ser,tambien usaremos cartas/hojas para llenar el backlog o bitacora, se pueden hacer las reuniones de scrum en lugares comodos,
+y cuando ya haya un producto, llevarlo a las reuniones para experimentar
+
+sofware recomendado TRELLO 
+
+https://trello.com/es
+
+
+aprende y pasala bien en el scrum
